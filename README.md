@@ -10,3 +10,11 @@ The tags in the text have been removed and the safest option have been taken, bu
 The aim is to be able to treat Dunhuang texts as a digital corpus that can be analyzed.
 
 This work is under [CC0 license](LICENSE), roughly equivalent to Public Domain.
+
+## Old forms
+
+The text still contains some old forms that make it difficult to analyze:
+
+- འི འོ འང འམ are often (not always) separated from the syllable by a tsheg (་)
+- some reversed gigus appear instead of normal gigus
+- some anusvara appear instad of མ suffix
