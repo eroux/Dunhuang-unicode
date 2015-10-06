@@ -3,7 +3,7 @@
 This repository contains a Unicode version of the current state of the Tibetan [manuscript of Dunhuang](http://idp.bl.uk/). It comes from two main sources: 
 
 - [Old Tibetan Documents Online](http://otdo.aa-ken.jp/)
-- work by Brandon Dotson for his book [Old Tibetan Annals](http://verlag.oeaw.ac.at/The-Old-Tibetan-Annals)
+- work by Brandon Dotson for his work on [Tibetan Kingship](http://www.kingship.indologie.uni-muenchen.de/index.html)
 
 The tags in the text have been removed and the safest option have been taken, but it still contains mistakes and unknown blocks.
 
